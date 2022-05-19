@@ -1,4 +1,4 @@
-<head>
+<html lang="pl"><head>
 
 <script async="" defer="" data-website-id="aedcb0ff-be11-4738-a043-0bc0a04135b2" src="https://umami.okaeri.eu/umami.js"></script>
 
@@ -204,3 +204,113 @@ a:hover {
 <link rel="stylesheet" href="/resources/19IkadaG/custom.css?v=1648038654">
 <style type="text/css">/* Chart.js */
 @-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style><link rel="prefetch" href="https://sklep.rgmc.pl/server/1505"><link rel="prefetch" href="https://sklep.rgmc.pl/page/regulamin-uslug"></head>
+<body data-instant-whitelist="" aria-busy="true">
+
+<div id="website-content" class="container mt-md-4 px-md-5 px-4 pb-md-5">
+
+<div class="pt-3 pt-sm-5 pb-4 pb-sm-5">
+<div class="row mt-2 mb-md-5 mb-4 justify-content-sm-start justify-content-center">
+<img class="favicon" src="https://cdn.discordapp.com/icons/930168991803142206/11a8c58e2ffddb12f0c133bd3e301eea.webp" width="64" height="64">
+<div class="favicon-text d-none d-sm-block">
+SUPERCRAFT.PL
+</div>
+</div>
+<div class="row">
+<ul class="nav nav-tabs md-tabs primary-color w-100" role="tablist">
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link active" href="/shop/19IkadaG">Sklep</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" rel="noopener" href="/page/regulamin-gry" data-instant="">Regulamin gry</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" rel="noopener" href="/page/regulamin-konkursw" data-instant="">Regulamin konkursów</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" rel="noopener" href="/page/regulamin" data-instant="">Regulamin</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" rel="noopener" href="/page/regulamin-uslug" data-instant="">Regulamin usług</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" rel="noopener" href="/page/polityka-prywatnoci" data-instant="">Polityka prywatności</a>
+</li>
+<li class="nav-item ml-auto waves-effect waves-light">
+<a class="nav-link" href="/voucher" data-instant="">Wykorzystaj Voucher</a>
+</li>
+</ul><div class="col-lg-4 col-md-6 col-sm-12">
+<div class="card service-card card-cascade card-ecommerce mb-3">
+<div class="card-body card-body-cascade text-center pt-2 pb-2">
+<div class="row text-nowrap">
+<div class="col-md-12">
+<a class="btn btn-link btn-block waves-effect waves-light" <a> <center>Nasze Minigry</center> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12">
+<div class="card service-card card-cascade card-ecommerce mb-3">
+<div class="card-body card-body-cascade text-center pt-2 pb-2">
+<div class="row text-nowrap">
+<div class="col-md-12">
+<a class="btn btn-link btn-block waves-effect waves-light" href="/server/1294" data-instant="">MegaDrop 1.8-1.18.2</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12">
+<div class="card service-card card-cascade card-ecommerce mb-3">
+<div class="card-body card-body-cascade text-center pt-2 pb-2">
+<div class="row text-nowrap">
+<div class="col-md-12">
+<a class="btn btn-link btn-block waves-effect waves-light" href="/server/1296" data-instant="">SkyWars (wkrótce)</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-12">
+<div class="card service-card card-cascade card-ecommerce mb-3">
+<div class="card-body card-body-cascade text-center pt-2 pb-2">
+<div class="row text-nowrap">
+<div class="col-md-12">
+<a class="btn btn-link btn-block waves-effect waves-light" href="/server/1421" data-instant="">BedWars (wkrótce)</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<footer class="page-footer font-small unique-color-dark mt-5">
+<!-- googleoff: index -->
+
+<div class="footer-copyright text-center py-3">© 2022 Copyright:
+<a href="SuperCraft.Pl"> SuperCraft.PL</a>
+</div>
+
+<!-- googleon: index -->
+</footer>
+
+<script src="/static/js/instantpage.min.js" type="module" defer=""></script>
+<script src="/static/js/jquery-3.4.1.min.js"></script>
+<script src="/static/js/popper.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
+<script src="/static/js/mdb.min.js"></script><div class="hiddendiv common"></div>
+
+<script>
+    var token = $("meta[name='_csrf']").attr("content");
+    var header = $("meta[name='_csrf_header']").attr("content");
+    $.ajaxSetup({
+        beforeSend: function (xhr) {
+            xhr.setRequestHeader(header, token);
+        }
+    });
+</script>
+
+
+</body></html>
